@@ -1,0 +1,1172 @@
+{
+  "homepages": [],
+  "source_base_path": "/Users/neo/Documents/Coding/Personal/docfx-playground/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.AddTagOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.AddTagOptions.html",
+          "hash": "ePR3OgI2obhnkVK6FLj88w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.BoundingBox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.BoundingBox.html",
+          "hash": "o557Agy95l70QK7j/Qh0Bg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Browser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Browser.html",
+          "hash": "dpXYO/N824BoLMRCnMjcWQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.CDPSession.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.CDPSession.html",
+          "hash": "rgP82RbclCLDbDu6ozG5Cg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.ChromeProcessException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.ChromeProcessException.html",
+          "hash": "d/xS0CoSytjA0UqyP//wKg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.ConnectOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.ConnectOptions.html",
+          "hash": "br3ZbtEarL7oe2FvK5ZZGA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Connection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Connection.html",
+          "hash": "y+8XNc7swGmvFH7qV0VYQw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.ConsoleEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.ConsoleEventArgs.html",
+          "hash": "ibI/z2fvyFK81cUwQ3ptYQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.ConsoleMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.ConsoleMessage.html",
+          "hash": "ybmsLVoOf0q3sRyXnPABAw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.ConsoleType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.ConsoleType.html",
+          "hash": "78nVoFLtAFMymZb3PqYxtQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.CookieParam.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.CookieParam.html",
+          "hash": "QejINbMDxrtNzSKzNMeRsA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Credentials.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Credentials.html",
+          "hash": "wzLe1m37lC/lggDTSqz8CA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Dialog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Dialog.html",
+          "hash": "ILJsIdJh2LjOX3ic5kXUTw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.DialogEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.DialogEventArgs.html",
+          "hash": "uRFilh2XUjfI/S+SQnMfQA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.DialogType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.DialogType.html",
+          "hash": "Ywj4uJgCBZUp/Wj3wmdJLw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Downloader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Downloader.html",
+          "hash": "Ex5nkb0N0+cmPmqk8dIarQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.ElementHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.ElementHandle.html",
+          "hash": "DMAM6dqItXR3aQgIY3KW/g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.ErrorEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.ErrorEventArgs.html",
+          "hash": "7LIrS93NMYmp8WzTLE6/Og=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.EvaluationFailedException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.EvaluationFailedException.html",
+          "hash": "wmDkdFQY/SeOiBi3wv/U1A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.ExecutionContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.ExecutionContext.html",
+          "hash": "s1+ZBbedzDl/qwxmKC30hA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Extensions.html",
+          "hash": "ypNCXpqoOzLsCP7u6yyUNg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Frame.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Frame.html",
+          "hash": "rMZPoKb9l7hA+PPHy4Wb/Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.FrameEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.FrameEventArgs.html",
+          "hash": "2P9ihJmLoTxYUb2E99dsOg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.IBrowserOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.IBrowserOptions.html",
+          "hash": "rE3OquNMgME2/FmN5R1p9Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Input.ClickOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Input.ClickOptions.html",
+          "hash": "DIiUd1bdAgJcA1pIEY/+aw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Input.DownOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Input.DownOptions.html",
+          "hash": "VC83JG/f2ztjLILIk2xViQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Input.Key.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Input.Key.html",
+          "hash": "urdptQmxFn3CYhjYOw1R1Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Input.Keyboard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Input.Keyboard.html",
+          "hash": "L1f68gJi7rcZCMX4XbjM3Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Input.Mouse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Input.Mouse.html",
+          "hash": "NRUQjVK3+gN7W3GtH7x5IQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Input.MouseButton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Input.MouseButton.html",
+          "hash": "GUa57kocpIAALunHNHIkoQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Input.MoveOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Input.MoveOptions.html",
+          "hash": "8YXVIDww7iidbaQ3m0+MzA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Input.PressOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Input.PressOptions.html",
+          "hash": "2leKQEra9i6NwignMvqy3Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Input.Touchscreen.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Input.Touchscreen.html",
+          "hash": "htIrAtbhWyTWfzwROUsIUw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Input.TypeOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Input.TypeOptions.html",
+          "hash": "/1m4tY/OEluFI13FAtYqZw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Input.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Input.html",
+          "hash": "b/BBWmR0v+A+CGrcLnYHQA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.JSHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.JSHandle.html",
+          "hash": "cxDs/GiTRZka3iPitL9CAQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.LaunchOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.LaunchOptions.html",
+          "hash": "QZVx/VUCd6ZT5WxfZ+gSNA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Launcher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Launcher.html",
+          "hash": "a1aiM7WaL8Kl6K2XKftCQw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Media.Clip.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Media.Clip.html",
+          "hash": "sgMX/4wCts02aL6kjXDbrA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Media.MarginOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Media.MarginOptions.html",
+          "hash": "MDo7uBgxYYdQ5M3JvMNXzA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Media.MediaType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Media.MediaType.html",
+          "hash": "nTUxV3EGnAg07vX5zTE+AA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Media.PaperFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Media.PaperFormat.html",
+          "hash": "z8ym+D4oAuRXcKgkGRaTqw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Media.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Media.html",
+          "hash": "ItkdtCcbMurXdGFmRXB5ng=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.MessageEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.MessageEventArgs.html",
+          "hash": "haVW2RgF7Y+gJLH2O5nAUw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.MessageException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.MessageException.html",
+          "hash": "XtjrnOGw6f29hbI193aUQg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.MetricEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.MetricEventArgs.html",
+          "hash": "IYifn2XaCbsyzOpdf6IZ5w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Mobile.DeviceDescriptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Mobile.DeviceDescriptor.html",
+          "hash": "Xtnpw8ERswir84n8r0Az8Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Mobile.DeviceDescriptorName.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Mobile.DeviceDescriptorName.html",
+          "hash": "+IrsfzVJKHY+94RQn0D/Vg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Mobile.DeviceDescriptors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Mobile.DeviceDescriptors.html",
+          "hash": "PtN+dshG9FrQN6Ve3xiEWg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Mobile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Mobile.html",
+          "hash": "59ns96Lj3rxSiGq62iB+DA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.NavigationException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.NavigationException.html",
+          "hash": "Fxnho9uCffIXRTaUIyVgyA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.NavigationOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.NavigationOptions.html",
+          "hash": "7BWyT7/ygVuGGzfXu5W9Qg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Page.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Page.html",
+          "hash": "lYo3yzjc/LQRC0bzM7salA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.PageCoverage.Coverage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.PageCoverage.Coverage.html",
+          "hash": "armkS2KvsSS1wMetUyGbLQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.PageCoverage.CoverageEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.PageCoverage.CoverageEntry.html",
+          "hash": "BGMoC+MyL/9ZujHSfb/0ow=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.PageCoverage.CoverageEntryRange.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.PageCoverage.CoverageEntryRange.html",
+          "hash": "xnjy9V2RNlTTNz5sHrTYww=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.PageCoverage.CoverageStartOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.PageCoverage.CoverageStartOptions.html",
+          "hash": "S6SgWrpxaafa2lD6OW8aFw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.PageCoverage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.PageCoverage.html",
+          "hash": "vbOZhw/s0j0TWD2rvOwhJw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.PageErrorEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.PageErrorEventArgs.html",
+          "hash": "xH5oQ8Mww+J81ULaVN0ZAw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Payload.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Payload.html",
+          "hash": "lieEAhDFNgc+uBJYcTNNMQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.PdfOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.PdfOptions.html",
+          "hash": "qr+RxXTzmWPxR6zUhzPZXA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Platform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Platform.html",
+          "hash": "nuaNz5830y4ENcJCJNlXhQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Puppeteer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Puppeteer.html",
+          "hash": "uFHW6uPtXduFPqvePpeqRg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.PuppeteerException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.PuppeteerException.html",
+          "hash": "SBbSpp6yb1yBO4GOktEzwA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Request.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Request.html",
+          "hash": "mskrO87J0DCF72CvD2Uatw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.RequestAbortErrorCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.RequestAbortErrorCode.html",
+          "hash": "Jon6fAnzutAy4LdvNemVcA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.RequestEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.RequestEventArgs.html",
+          "hash": "FCaQg7WwCRyebaMFE5iVBw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.ResourceType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.ResourceType.html",
+          "hash": "rhwIhf20mIqMBkn8oz2z4w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Response.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Response.html",
+          "hash": "zn/nv2UGvpn9n/Sk9w5LRA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.ResponseCreatedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.ResponseCreatedEventArgs.html",
+          "hash": "UvnVetH0pkXLGypobjJ+WQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.ResponseData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.ResponseData.html",
+          "hash": "9TzuvWhaxdbn1yTubHkfTg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.RevisionInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.RevisionInfo.html",
+          "hash": "uaoONX0hl/THhnpJVlRMZw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.ScreenshotOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.ScreenshotOptions.html",
+          "hash": "flk+I0V+n+wxBiPkx5PmYg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.SecurityDetails.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.SecurityDetails.html",
+          "hash": "kWcviERIx5rBNhf+S8pcqw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.SelectorException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.SelectorException.html",
+          "hash": "5TVR6x4OxX03ilq/BSeZGw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Target.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Target.html",
+          "hash": "0m6V6bGeiij7R09mk32Pew=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.TargetChangedArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.TargetChangedArgs.html",
+          "hash": "c7wrGi2RLpYlg/390DLT5w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.TargetClosedException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.TargetClosedException.html",
+          "hash": "qtnHMZbzTrtgyltDroWnxQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.TargetInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.TargetInfo.html",
+          "hash": "/e4uz1e8kdZxvSqxOUwzxQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.Tracing.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.Tracing.html",
+          "hash": "8TseJMSPHTPHS9AlhNkGow=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.TracingCompleteEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.TracingCompleteEventArgs.html",
+          "hash": "fmYQ7VcvS7i/Hd/ieeTgGg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.TracingOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.TracingOptions.html",
+          "hash": "Ok3q4HTR6v4fbPLhs4dBGA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.ViewPortOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.ViewPortOptions.html",
+          "hash": "vi/Je65wD0RP6BMXV52Fdg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.WaitForFunctionOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.WaitForFunctionOptions.html",
+          "hash": "zIRLgU/Oy2hSwdYbS0mLPQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.WaitForFunctionPollingOption.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.WaitForFunctionPollingOption.html",
+          "hash": "VKN4wkWV6mOflzDQNpRavQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.WaitForSelectorOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.WaitForSelectorOptions.html",
+          "hash": "hV2D+5DtylL7SqKkEp316Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.WaitUntilNavigation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.WaitUntilNavigation.html",
+          "hash": "OwueeeEg0F6c/S5bko7wqg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PuppeteerSharp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PuppeteerSharp.html",
+          "hash": "YNzeq0HMk/sQ06fldbN/IA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "pk6pTEiHTpvPoij20DfNww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "du1foxfUWSzVrvw5ZvunUQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "0qqZ9CEsGLGSvCmgFnt3hg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "xVlQaX7Tk85omoiWv3O+Ag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "9FZlGCpof+JDjy+cVbk1pw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "ob7LqWp4kTNLz+9W4omdTw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build"
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build"
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build"
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing"
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
