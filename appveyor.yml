@@ -23,7 +23,7 @@ build:
   include_nuget_references: true
   verbosity: minimal
 install:
-- ps >-
+- ps: >-
     choco install docfx
 after_build:
 - ps: AppVeyor/GenerateDocs.ps1
