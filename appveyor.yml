@@ -1,0 +1,41 @@
+version: 1.0.{build}
+branches:
+  only:
+  - master
+image: Visual Studio 2017
+configuration: Release
+environment:
+  git_access_token:
+    secure: oaD5e6jQK+II/QaQTXFGpdNm71V7K3FvCjzN0DHbVsJL4D2C4rWHAxmXxkfzit2O
+  matrix:
+    - framework: netcoreapp2.0
+before_build:
+- ps: >-
+    dotnet restore .\lib\PuppeteerSharp.sln
+
+    New-SelfSignedCertificate -Subject "localhost" -FriendlyName "Puppeteer" -CertStoreLocation "cert:\CurrentUser\My"
+
+    Get-ChildItem -Path cert:\CurrentUSer\my | where { $_.friendlyname -eq "Puppeteer" } | Export-Certificate -FilePath C:\projects\puppeteer-sharp\lib\PuppeteerSharp.TestServer\testCert.cer
+
+build:
+  project: .\lib\PuppeteerSharp.sln
+  publish_nuget: true
+  include_nuget_references: true
+  verbosity: minimal
+install:
+- ps >-
+    choco install docfx -y
+after_build:
+- ps: >-
+    git config --global credential.helper store
+    Add-Content "$HOME\.git-credentials" "https://$($env:git_access_token):x-oauth-basic@github.com`n"
+    git config --global user.email "dariokondratiuk@gmail.com"
+    git config --global user.name "Darío Kondratiuk"
+    docfx metadata docfx_project/docfx.json
+    docfx build docfx_project/docfx.json -o docs
+    git checkout master
+    git add docfx_project/*
+    git add docs/*
+    git commit -m "Docs for"
+    git push origin
+  
