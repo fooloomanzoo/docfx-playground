@@ -24,7 +24,7 @@ build:
   verbosity: minimal
 install:
 - ps >-
-    choco install docfx -y
+    choco install docfx
 after_build:
 - ps: >-
     git config --global credential.helper store
