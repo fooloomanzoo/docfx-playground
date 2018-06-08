@@ -26,4 +26,4 @@ install:
 - ps >-
     choco install docfx
 after_build:
-- ps: AppVeyor/GenerateDocs-ps1
+- ps: AppVeyor/GenerateDocs.ps1
