@@ -24,6 +24,10 @@ build:
   verbosity: minimal
 install:
 - ps: >-
-    choco install docfx
+    if($env:APPVEYOR_REPO_TAG -eq 'True'){
+    
+        choco install docfx
+        
+    }
 after_build:
 - ps: AppVeyor/GenerateDocs.ps1
