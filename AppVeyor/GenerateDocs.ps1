@@ -11,6 +11,6 @@ if($env:APPVEYOR_REPO_TAG -eq 'True'){
     docfx metadata docfx_project/docfx.json
     docfx build docfx_project/docfx.json -o docs
     git add docs/* -f
-    git commit -m "Docs build $($env:APPVEYOR_BUILD_VERSION)"
+    git commit -m "Docs version $($env:APPVEYOR_REPO_TAG_NAME)"
     git subtree push --prefix docs pages gh-pages
 }
