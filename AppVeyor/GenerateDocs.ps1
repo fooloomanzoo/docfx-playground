@@ -9,6 +9,6 @@ git checkout master
 git subtree add --prefix docs pages/gh-pages
 docfx metadata docfx_project/docfx.json
 docfx build docfx_project/docfx.json -o docs
-git add docs/
+git add docs/*
 git commit -m "Docs build $($env:APPVEYOR_BUILD_VERSION)"
 git subtree push --prefix docs pages gh-pages
