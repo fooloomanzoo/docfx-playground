@@ -9,4 +9,4 @@ $Env:VisualStudioVersion="15.0"
 docfx metadata docfx_project/docfx.json
 docfx build docfx_project/docfx.json -o docs
 git add docfx_project/*
-git subtree push --prefix docs origin pages
+git subtree push --prefix docs pages gh-pages
