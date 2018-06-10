@@ -6,7 +6,7 @@ image: Visual Studio 2017
 configuration: Release
 environment:
   git_access_token:
-    secure: oaD5e6jQK+II/QaQTXFGpdNm71V7K3FvCjzN0DHbVsJL4D2C4rWHAxmXxkfzit2O
+    secure: FxcQ9C8a/NgcQB5dFdZts6ZWEDT4zMhA4qPQAYwWc7huMmhmTIl1sbFEIaAWQMTL
   matrix:
     - framework: netcoreapp2.0
 before_build:
