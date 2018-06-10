@@ -5,9 +5,9 @@ git config --global user.email "dariokondratiuk@gmail.com"
 git config --global user.name "Darío Kondratiuk"
 git remote add pages https://github.com/kblok/docfx-playground.git
 git checkout master
-git subtree split --prefix docs --branch gh-pages
+git subtree add --prefix docs pages/gh-pages
 docfx metadata docfx_project/docfx.json
 docfx build docfx_project/docfx.json -o docs
 git add docs/
-git commit -m "Docs vx"
+git commit -m "Docs build $($env:APPVEYOR_BUILD_VERSION)"
 git subtree push --prefix docs pages gh-pages
